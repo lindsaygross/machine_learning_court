@@ -1,0 +1,10 @@
+pandas==2.1.4
+numpy==1.23.5
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.5.1
+cython
+jupyter
+statsmodels==0.14.0
+scipy==1.10.1
+pygam==0.8.0
